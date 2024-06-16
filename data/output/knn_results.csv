@@ -1,0 +1,740 @@
+English Word,Korean Word,KNN Results,Match Found
+Bit-Coin,비트코인,N/A,False
+KakaoTalk,카카오톡,"바이버, 카카오톡과, WeChat, 아이메시지, 카카오톡이란, SNS서비스, 네이트온톡, 모바일메신저, 카카오톡이라는, 카카오톡분석",True
+Facebook,페이스북,"페이스북, SNS, 페이스북은, 페이스북과, 뉴스피드의, 팔로우하거나, 공식블로그를, 페이스북의, 뉴스피드는, 메타사이트",True
+Instagram,인스타그램,"페이스북, SNS, Vyrl, 리그램, 인스타, 팔로우, 페이스북페이지, 패이스북, 스타일쉐어, 인스타일",False
+Arduino,아두이노,"아두이노, 아두이노의, 아두이노에, 아두이노를, 아두이노와, Arduino, Arduino의, Arduino를, 아두이노는, 아두이노가",True
+protocol,프로토콜,"프로토콜, OSPF, ppTp, TFTP, TCP의, 인증기술, IGMP, 브리징, HDLC, SNMP",True
+YouTube,유튜브,"유튜브, 유투브, 유투브의, 유트브, 유튜브나, 동영상, 유튜브의, YouTube, 유튜브에, 팟케스트",True
+Ethernet,이더넷,"이더넷, 40Gbps, DWDM, IGMP, 10Gbps, CPRI, 10Gbps의, RS-485, 10Gb, 기가비트급",True
+AlphaGo,알파고,"알파고가, 알파고를, 기계학습, 인공지능, 딥마인드의, 딥마인드가, 알파고와의, 딥마인드, 바둑계는, 바둑프로그램",True
+Cloud-Computing,클라우드-컴퓨팅,N/A,False
+Android,안드로이드,"안드로이드, 안드로이드OS, iOS, 윈도폰7, iOS나, 윈도우폰7, 윈도우폰, 안드로이드마켓, 윈도폰, 안드로이드OS가",True
+Infographics,인포그래픽,"인포그래픽, 디지털마케팅, 인포그래픽스-, 인포그래픽과, 인포그래픽의, 데이터시각화, 동영상광고, 인포그래픽으로, Design태그, 인포그래픽을",True
+software,소프트웨어,"소프트웨어, 소프트웨어용, 소프트웨어의, 소프트웨어를, 소프웨어, 공개소스, 소프트웨어란, 개발도구, 소프트웨어숨은, 안티멀웨어",True
+mobile,모바일,"모바일, 스마트폰, 단말기용, 앱, 태블릿용, 피처폰, 영상채팅, PC, 모바일앱, 휴대폰",True
+router,라우터,"PPTP, 라우터, IGMP, 공유기를, 공유기, 무선랜카드, 공유기에서, 라우터나, 주변장치, 공유기의",True
+data-base,데이터베이스,"전자자료, 정보학, 시소러스, 자료검색, 연속간행물, DB구축, 질의어, 자료흐름도, 연구정보, 통계시스템",False
+smart-phone,스마트폰,"스마트폰, 스마트폰은, 스마트폰을, 태블릿용, 태블릿, 스마트폰이, 스마트폰의, 모바일폰, 스마트패드, 스마트기기와",True
+ransomware,랜섬웨어,"랜섬웨어, 랜섬웨어로, 보안위협의, 랜섬웨어의, 랜섬웨어에, 보안위협, 랜섬웨어를, 랜섬웨어가, 랜섬웨어인, 랜섬웨어도",True
+LINE,라인,"LINE, Line, B000, Curzon, 8018, A.B.C, 13A, SATELLITE, P160, QUMICO",False
+Day-Marketing,데이마케팅,N/A,False
+snapchat,스냅챗,"랜덤채팅, 셀기꾼, 인스타, 화상채팅, 카톡이나, 랜덤채팅을, 움짤이, 잠금화면에, 패이스북, 동싸이트",False
+Linux,리눅스,"리눅스, 윈도우즈, 윈도우즈와, 운영체제, ARM용, 리눅스가, QEMU, X86, 윈도우, OpenVZ",True
+data-mining,데이터마이닝,"데이터마이닝과, 데이터마이닝, 텍스트마이닝, 기계학습, 감정분석, 정보분석, 데이터마이닝의, 예측적, 웹로그, 데이터마이닝은",True
+spread-sheet,스프레드시트,"차트작성, 스프레드쉬트, xls, DOCX, 엑셀파일, VBA로, 로그파일, 작성법과, 산점도, 데이터소스",False
+Flash-Memory,플래시메모리,N/A,False
+PowerPoint,파워포인트,"파워포인트나, 파워포인트가, 프레젠테이션, 프리젠테이션, 파워포인트2010, 파워포인트는, 파워포인트의, 슬라이드나, 파워포인트용, 파워포인트2013",True
+firmware,펌웨어,"펌웨어, v5, 펌웨어를, 펌웨어인, 펌웨어로, 펌웨어에, 6.1을, 윈도우비스타, BIOS와, TH2",True
+internet,인터넷,"인터넷, 인터넷이나, 파일공유, 인터넷과, 인터넷의, 포털서비스, 인터넷이, 블로그등, 인터넷망, 세이클럽",True
+Tag,태그,"태그, Tag, 보관물, 스퀘어드, ID3, 10목록, getTitleObject, 태그를, 소송계류정보, 메가에반",True
+domain,도메인,"도메인, 도메인과, 도메인의, DNS, Domain, domain, 도메인을, 주소들, 주소란, 도메인이란",True
+process,프로세스,"과정, 절차, 과정의, 과정이, 과정이자, 과정들, 단계들, 과정을, 작업, 과정상",False
+digital,디지털,"디지털, 다매체, 컨버젼스, 이미징, -디지털, 레코더의, 디지탈, 미디어, XDCAM, 어학기",True
+mainboard,메인보드,"마더보드, 메인보드, X200, 메인보드에는, 주변기기와, P55, 메인보드와, 메인보드에, 리드텍, 그래픽카드",True
+hub,허브,"허브, 허브로서의, Hub, 허브인, 허브로, 거점, 선도대학, 물류, hub, 허브입니다",True
+user-interface,유저인터페이스,"개발환경의, GUI와, 사용성, 인터페이스까지, 정보구조, UI와, 인터페이스와, UI디자인, UI, 직관적인",False
+interrupt,인터럽트,"리셋을, 인터럽트, 종료나, 실행중, 액서스, 루틴을, 재접속, 예외상황, 호출하거나, 방해",True
+tethering,테더링,"테더링, OTG, 무선랜과, 부가기능, 확장용, 나노심, 결합, V터치, 서드파티, 분실방지",True
+interface,인터페이스,"인터페이스, 인터페이스를, 인터페이스의, 인터페이스용, 컴포넌트와, 인터페이, 인터페이스와, XPCOM, 인터페이스인, 인터페이스가",True
+Uber,우버,"우버택시, 우버가, Uber, 우버, 우버는, 무인자동차의, 택시와, 우버의, 우버와, Lyft",True
+twitter,트위터,"SNS, 트위터, 페이스북페이지, sns, 페이스북, 트렌딩, 트위터도, Twitter, 응원댓글, 두잇",True
+archive,아카이브,"아카이브, 아카이브를, 아카이빙, 아카이브나, 아카이브된, 아카이브와, 아카이브에, 수장고, 마이크로필름, 검색자료",True
+metadata,메타데이터,"메타데이터, 메타데이타, 메타데이터가, OPML, 메타데이터의, MHTML, 중복제거, 메타데이터를, 메타데이터에, 템플리트",True
+cache-memory,캐시메모리,N/A,False
+dropbox,드롭박스,"파일등, 폴더를, sd카드에, 파일관리, 압축파일이, 원드라이브, 파일업로드, 파일을, usb로, 백업파일",False
+hardware,하드웨어,"하드웨어, 하드웨어나, 미니컴퓨터, 하드웨어의, 소프트웨어, 하드웨어를, 메모리칩, 하드웨어와, 하드웨어에, 하드웨어도",True
+rendering,렌더링,"렌더링에서, 랜더링, 렌더링, 쉐이딩, 래스터화, 렌더링에, WPF의, 에드온, 랜더링은, 렌더링이",True
+watermark,워터마크,"워터마크는, 워터마크를, 워터마크의, 워터마크, 나인패치, 워터마킹, 무단도용을, 저작권, 글꼴의, 폰트의",True
+blog,블로그,"블로그, 블로그를, 윤톡톡, 미즈넷, 블로그에, 블러그, PC사랑, 블로그의, 이웃분들, 앱스토리",True
+module,모듈,"모듈, MUX, 모듈과, PLECS, 랩뷰, IPMI, 모듈인, GPIO, Module, 각종센서",True
+contents,콘텐츠,"내용물, 파일들의, 내용, 제목, 내용물과, 첫부분, 첨부문서, 유통과정, 첨부물, 상자",False
+middleware,미들웨어,"미들웨어, 미들웨어에, 미들웨어를, 미들웨어로, 솔루션들과, 프레임웍과, 미들웨어의, 로드밸런서, AUTOSAR, PaaS는",True
+crowd-funding,크라우드-펀딩,"펀딩, 킥스타터, 인디고고, 크라우드펀딩, 킥스타터와, 펀딩은, 소셜펀딩, 킥스타터의, 크라우드펀딩은, 킥스타터에서",False
+solution,솔루션,"해결, 해법, 솔루션, 솔루션을, 해결책, 해결법, 해결법은, 해결책은, 해결책인, 솔루션이라고",True
+intranet,인트라넷,"인트라넷, 인트라넷이나, 그룹웨어와, 인트라넷이, 인트라넷에, 서비스망, 웹서비스로, 텔레포니와, 쉐어포인트, 통계시스템",True
+server,서버,"서버, 서버의, 서버를, 서버에서, 서버에, 서버와, 서버나, 서버는, 클라이언트, 알FTP",True
+compiler,컴파일러,"퀵소트, 코볼, 인터프리터, 레일스, 마이바티스, 프레임웍, C언어는, ORM, 전처리기, GLSL",False
+embedded-system,임베디드시스템,N/A,False
+hypertext,하이퍼텍스트,"하이퍼텍스트, 하이퍼텍스트는, 하이퍼텍스트와, 하이퍼미디어, 하이퍼텍스트의, 하이퍼텍스트를, 하이퍼텍스트로, 하이퍼텍스트가, 월드와이드웹, 하이퍼텍스트라는",True
+Codec,코덱,"PHY, 컨버터, SAPI, 10-bit, UMD, DSD, EAX, HE-AAC, ADPCM, AVX",False
+Avatar,아바타,"아바타, 퓨처파이트, 쿵푸팬더3, 배틀쉽, 컨저링2, 패신저스, 가오갤, 영화예고편, 블래스트걸즈, 스타트렉의",True
+hot-spot,핫스팟,"핫스팟, 음영지역, 명소, 도심지, 맛집과, 맛집이, 관광도시로서의, 명소로, 관광도시로서, 기상현상",True
+Telematics,텔레매틱스,"텔레매틱스, 커넥티비티, 유블럭스, 커넥티드카의, Infotainment, TPMS, 커넥티드카, 인포테인먼트, IVN, 커넥티드",True
+yahoo,야후,"tw, QQ, gws, google.com, 오피톡, 안카메라, ij, 읽으세요., msn, 한미르",False
+Machine-Learning,머신-러닝,"데이터마이닝과, 기계학습, 텍스트마이닝, 데이터마이닝을, 기계학습과, 데이터마이닝은, 머신러닝, 강화학습은, 코그너티브, 데이터마이닝의",False
+macro,매크로,"Macro, 매크로, 매크로와, CFG, macro, 예제3, 어안, 숫자형, 아웃포커싱, if문",True
+core,코어,"핵심, 코어, core, 核心, 역량, 인프라로서의, 2소켓, 시리콘, 요소, 넥센타",True
+cookie,쿠키,"쿠키, 쿠키를, 쿠키와, 케익이나, 쿠기, 쿠키에, 케잌, 쿠키나, 쿠키가, 머핀",True
+hacking,해킹,"해킹, 해커들의, 해커가, 해킹은, 해커, 해킹에, 해킹으로, 해킹이라는, 해커들이, 해킹과",True
+Google,구글,"구글, 구글을, 구글은, 야후나, 구글의, 구글이, 학술검색, google의, 구글에, 검색창",True
+Excel,엑셀,"엑셀, 엑셀이나, Excel, xlsx, 도큐웍스, 엑셀함수, DOCX, 스프레드쉬트, 작성법과, MS워드",True
+streaming,스트리밍,"스트리밍, 스트리밍이나, 스트리밍을, 스트리밍도, 스트리밍과, streaming, 스트리밍에서, 스트리밍되는, 스트리밍이, VOD",True
+registry,레지스트리,"결혼중개업의, 의료기록, 보안정보, 레지스트리, 자료삭제, 암호변경, 전산화, 관리-, 시험검사, 전문간호사",True
+Macintosh,매킨토시,"매킨토시, 맥킨토시, 매킨토시나, 매킨토시와, 매킨토시용, 애플2, 윈도우즈와, 윈도우즈, IIGS, 도스용",True
+microprocessor,마이크로프로세서,"DRAM, ASIC, VLSI, 곱셈기, 혼합신호, 마이크로프로세서, DRAM의, 8086의, 회로설계, 초저전력",True
+repeater,리피터,"수신기, 송신기와, 송신기로, RTU, 리모콘, 전화기, 접속용, 커패시턴스, 송신기, 집선",False
+data,데이터,"데이터, 데이터의, 분석용, 관측자료, 데이터를, 통계정보의, 반정형, 수집부터, 데이타, 자료",True
+programmer,프로그래머,"프로그래머, 프로그래머나, 프로그래밍, 프로그래머이자, 엔지니어다, 개발자, 개발자로써, 개발자가, 프로그래머가, 프로그래머와",True
+workstation,워크스테이션,"컴퓨터, 데스크탑, 랩탑, 작업공간, PC, PC를, PC가, 가상머신, 워크스테이션, 데스크톱",True
+FinTech,핀테크,"핀테크, 금융기술, 블록체인, 인터넷전문은행의, 금융산업, ICT기술, 인터넷전문은행, 스타트업들의, 금융혁신, 핀테크산업",True
+Ubiquitous,유비쿼터스,"컨버전스란, 가상도서관, 증강현실이, 사물인터넷의, 일루미나, Iridium, 컨버전스형, 모바일인터넷, 컨버전스의, 러닝이란",False
+Naver-Band,네이버-밴드,N/A,False
+legacy,레거시,"유산과, 역사이자, 위인들의, 유산인, 발자취와, 숙원, 변모와, 레거시, 백년간의, 유산을",True
+Pharming,파밍,"유전자변형생물체, 품종개량, 천연물, 형질전환동물, 유전자재조합, 바이오신약, 유전자변형작물, 표적항암제, 신약개발이, 억제효과",False
+Lineage,리니지,"쥬라기원시전2, 암흑기사단, 계보, 킹덤언더파이어, 임모탈, 카마엘, 몽골제국, 중력전선, 다라이어스, 크루세이드",False
+Deep-Learning,딥-러닝,N/A,False
+hamming-code,해밍코드,N/A,False
+bluetooth,블루투스,"블루투스, 유에스비, 블루투스4.0, 블투, 블루투스나, HC-06, HD-LINK, 외장스피커, 유니파잉, USB",True
+bridge,브리지,"다리, 주탑, 보행로, 교량과, 육교, 교량, 절개지, 철교, 물막이, 전신주",False
+kiosk,키오스크,"판매소, 계산대, 키오스크, 판매대, 기념품점, 매점, 상점, 판매장, 식당가, 키오스크를",True
+power-supply,파워서플라이,"고전류, 전력, 공급장치, 전력변환, 전력공급, 배전반, 냉각팬, 공급기와, 전력소모, 130W",False
+open-source,오픈소스,"오픈소스이며, 오픈소스, 오픈소스와, 오픈소스나, 공개소프트웨어, 오픈소스이고, 오픈소스들이, 오픈소스가, 공개소스, 오픈소스로",True
+firm-banking,펌뱅킹,N/A,False
+flash-game,플래시게임,"리듬액션, 스포츠게임, 벨트스크롤, 대전격투, 대전액션, 게임, 건슈팅, 게임4, 카드배틀, 아케이드게임",False
+Kakao-Pay,카카오페이,N/A,False
+groupware,그룹웨어,"그룹웨어와, 그룹웨어, 백오피스, 플랫폼간, 쉐어포인트, 하이퍼텍스트, 솔루션들과, 네트워킹, 브라우저와의, CORBA는",True
+Mashup,매시업,"mashup, Mash-up, 매쉬업, 라이브러리, 매시업, OpenGraph, Mashup, Kpop, OpenSocial, Bluemix",True
+hard-disk-drive,하드-디스크-드라이브,N/A,False
+migration,마이그레이션,"이주, 移住, 이주자, 인구이동, 유입, 이주와, 李珠, 재정착, 인구이동은, 인구이동과",False
+browser,브라우저,"브라우저, 브라우져, 웹브라우저나, 웹브라우저의, 브라우저의, 웹브라우저, 웹브라우져, 주소창, 브라우져를, 브라우저와의",True
+Gray-Code,그레이-코드,N/A,False
+packet,패킷,"패킷, 패킷을, 패킷은, BIT, 체크섬, 트랜시버, 전송이나, 칩의, 64KB의, 대기열",True
+cache,캐시,"캐싱, 메모리, 캐시, 캐시된, 익스텐트, DLL의, 쿼리, 레지스트리나, BLOB, cache",True
+DevOps,데브옵스,"데브옵스, 4차산업혁명의, 애자일, 변화관리의, ASP.Net, 트랜스포메이션, ASP.NET, CRM의, UCaaS, IT환경",True
+Edge,엣지,"스노이, SK8, 클라임, 오브더, 네카, 록다운, 포지드, 웬섬, 버텀, 럼버잭",False
+multitasking,멀티태스킹,"멀티태스킹, 멀티태스킹의, 멀티태스킹이, 멀티태스킹과, 멀티태스킹으로, 멀티태스킹을, 멀티태스킹에, 멀티태스킹도, 멀티테스킹, 멀티스레딩",True
+byte,바이트,"bit의, 정수값, 주소지정, 64KB의, 4바이트, 16바이트, 비트, 1비트, 0x00, 1바이트",True
+system-software,시스템소프트웨어,N/A,False
+Social-Network-Service,소셜-네트워크-서비스,N/A,False
+iPhone,아이폰,"아이폰, 아이폰6, 갤럭시폰, 6s의, 아이팟터치의, 3GS의, 아이폰5, 아이폰4S, 지원기종, 애플의",True
+spyware,스파이웨어,"스파이웨어, 멀웨어, 악성앱, 스파이웨어나, 스파이웨어의, 악성코드, 스파이웨어와, 악성, 안티바이러스, 스파이웨어는",True
+programming,프로그래밍,"코딩, 프로그래밍, 프로그램, 코딩과, 방송기술, 프로그래밍에, 방송제작, 드라마등, 개발언어, 소프트웨어",True
+Sniffer,스니퍼,"Cat, 불여우, RAT, Slammer, EOD, 스파이웨어, GRU, 특공대, 기동타격대, 小火器",False
+Amazon,아마존,"아마존, 아마존의, 아마존에서, 이베이나, 아마존을, 반스앤노블, 아마존이, 이베이와, www.amazon.com, 베스트바이",True
+Java,자바,"자바, Java, 자바를, 자바의, Java나, 자바란, 자바나, Java용, 닷넷, 자바에",True
+storage,스토리지,"저장, 스토리지, 보관, 냉장, 저장공간, 대용량, 창고, 저장용, 장치1, 공간",True
+cracker,크래커,"통밀, 케잌, 스튜, 머핀, 모찌, 클램, 단호박과, 식빵, 덩이와, 갈은",False
+Internet-Explorer,인터넷익스플로러,N/A,False
+E-mail,이메일,"이메일, hotmail.com, 이-메일, e-mail., e-mail, cj.net, gmail.com, yahoo.com, 이멜, 이메일이나",True
+korea.com,코리아닷컴,N/A,False
+phishing,피싱,"멀웨어, 피싱, 스미싱, 랜섬웨어를, 해커들의, 금융사기, 피싱과, 해킹, 멀버타이징, 보안위협의",True
+multiplexer,멀티플렉서,"멀티플렉서, PHY, MUX, QAM, 연산기, 디스크리트, GPIB, 베이스밴드, 곱셈기, 소자군",True
+Beacon,비콘,"웨스트포드, 오번힐스에, 러틀랜드, 앤도버, 셸번, 리버프런트, 보셀, 맨션스, 프레도니아, 페어팩스에",False
+Tomcat,톰캣,"아파치의, 아파치, 톰캣과, K-멜레온, 톰캣은, 아파치에서, 톰캣, 웹서버와, Tomcat, 톰캣을",True
+Tablet,태블릿,"Tablet, 태블릿, Eee, 스마트패드, iPad2, 모바일폰, 랩탑, 태블릿PC, Chromebit, Xoom",True
+plug-and-play,플러그-앤드-플레이,"멀티벤더, WiGig, 무선연결, 무선형, 기능지원, ESS의, NAS로서, QvPC, 저전력의, 커넥티비티를",False
+register,레지스터,"등록, 조회하기, PIN번호, 폰번호를, 웹회원, 입력란을, 시작일과, 주소입력, 16자리, 신청란에",False
+worm-virus,웜바이러스,N/A,False
+proxy,프록시,"프록시, proxy, 서버, 웹, 캐싱, 웹서버의, IP나, 프락시, 차단, 후이즈",True
+LANcard,랜카드,N/A,False
+internet-portal-site,인터넷포털사이트,N/A,False
+Pokemon,포켓몬,"던전앤드래곤, 워프레임, 몬스터헌터, 공략집, 위닝일레븐, 미니언, 오더앤카오스, 타이니팜, 건스타, 캐주얼게임",False
+App-store,앱스토어,N/A,False
+Sandbox,샌드박스,"Textcube.com, 오픈프레임웍스, OpenShift, 2.4.0, BigTable, 3.0.0, User-agent, MSHTML, OpenType, 주분투",False
+key-board,키보드,"키보드, 키보드가, 키보드를, 키보드나, 터치패드, 랩탑, 키보드는, 기능키, 전자펜, 터치패드에",True
+architecture,아키텍처,"건축, 건축과, 건축기술, 조경, 현대건축, 전통건축, 실내건축, 도시건축, 한국건축, 건축에서의",False
+switching-hub,스위칭허브,N/A,False
+Turing-test,튜링-테스트,N/A,False
+program,프로그램,"프로그램, 프로그램의, 프로그램은, 장학지원, 프로그램과, 프로그램이, 프로그램을, 학습지원, 프로그램으로, Program",True
+port,포트,"항구, 포트, port, Port, 항구와, 항구의, 항만, 부두, 환적, 포트에",True
+backbone,백본,"분권화된, 백본, 축이, 완결적, 인프라다, 연합체로써, 축인, 업무간, 구조란, 3각",True
+Alipay,알리페이,"모바일결제, 알리페이와, 지급결제, 간편결제, 전자결제, 카카오뱅크는, 한국카카오, 전자상거래업체, 결제수단, 소매금융",True
+method,메소드,"방법, 판별법, 방법3, 기법, 추출방법, 추출법, 특이값, 정량분석법, 비모수적, 최소자승법",False
+Connected-Car,커넥티드-카,N/A,False
+naver,네이버,"中国, 日本, 在, く, ㄹㄹ, が, г, д, に, lv",False
+semantic-web,시멘틱-웹,"ebXML, 시멘틱, Semantic, 객체기반, XML, CoAP, ASP와, ORCID, 의미기반, W3C와",False
+BlackBerry,블랙베리,"윈도우폰, 아이폰, 아이패드1, 윈도우폰7, 윈도폰, 애플의, 아이폰3G, 블랙베리용, 윈도모바일, 윈도폰7",True
+shareware,셰어웨어,"소프트웨어용, 소프트웨어의, 소프트웨어, 프리웨어로, 소프트웨어윈도우, 소프트웨어는, 개발자에서, 소프트웨어숨은, 소프트웨어란, 공개소스",False
+impedance-matching,임피던스-매칭,"고전류, 증폭기가, 변환기의, 전송선, 증폭기로, 입력신호, 폐루프, 불평형, 증폭기와, 기지국간",False
+visual-basic,비주얼-베이직,N/A,False
+webhard,웹하드,N/A,False
+Torrent,토렌트,"XviD, 루비아나, 토렌트다운, 토랜트, Torrent, 게임기타, μTorrent, 고화질영화, BitTorrent, 네카",True
+Bootstrap,부트스트랩,"Bootstrap, Node.js, JQuery, node.js, CSS, D3.js, Node.JS, 제이쿼리, mongoDB, mvc",False
+wild-card,와일드카드,"챔피언결정전은, 동부컨퍼런스, 39라운드, 남자프로농구, 드래프트의, 챔피언결정전을, 영건즈, 조성주와, 챔피언결정전의, 플레이오프",False
+debug,디버그,"디버그, 디버깅을, 디버깅, 시스템콜, 컴파일과, 커맨드라인, 디버거, SSDT, 디버깅과, ASM을",True
+overhead,오버헤드,"오버헤드, 비용, 입출력과, 광원, 로터의, 끊김이나, 절감된, 절감, 오버헤드는, 덕트와",True
+supervisor,슈퍼바이저,"담당직원, 부서장과, 회계사무원, 인사업무, 시설장, 주임급, 근태, 행정지원, 인사팀의, 부팀장",False
+unicode,유니코드,"CP949, 윤희코드, 로캘, 코드페이지, 마크다운, 유니코드, 언어용, 울트라에디트, 윈도우즈용, 스타일시트",True
+netiquette,네티켓,"네티켓, 언어사용, 사이버폭력, 저자권, 유해사이트의, 예절이란, 사이버윤리, 통신언어, 사이버공간, 문장부호",True
+Proxy-server,프락시-서버,N/A,False
+AutoCAD,오토-캐드,"AutoCAD, 오토캐드, AutoCAD와, AutoCAD의, AutoCAD를, 인벤터, BIM, 넷빈즈, Revit, 3.2의",False
+subnet,서브넷,"VLSM, CIDR, 라우터에서, 서브넷의, VPC, 서브넷, 서브넷을, 192.168.0.0, 서브넷과, 192.168.1.0",True
+Auction,옥션,"경매, 제1전시장, 장기대여, 나프플리오, 경매는, 경매와, 국립사적지, auction, 코인에스, 펀드평가사",False
+digital-forensics,디지털-포렌식,N/A,False
+bundle,번들,"번들, 쿠폰까지, 묶음, 키트, 16P, 묶음을, 굿즈로, 컴포넌트, 동봉, 번들로",True
+Nexus,넥서스,"디자이어HD, 갤럭시폰, 프라다폰, 킨들파이어, 갤럭시W, 옵티머스Q, 기어1, 갤럭시J, EMUI, hTC",False
+Nand-Flash-Memory,낸드플래시메모리,N/A,False
+internet-banking,인터넷뱅킹,N/A,False
+prototyping,프로토타이핑,"툴링, 시제품, 렙랩, 공정기술의, 공정개발, 개발, 구현까지, 맵핑의, 개발까지의, 코딩과",False
+stack,스택,"쉘프, 어레이를, 스태킹, 스택을, 적층, 바운딩, 소팅, 스택, 배열, 룩업",True
+console,콘솔,"콘솔, 콘솔이, 콘솔은, 콘솔을, PS비타, 콘솔용, 게임기어, 콘솔과, 콘솔로, 게임큐브의",True
+Test-Bed,테스트베드,N/A,False
+Photoshop,포토샵,"포토샵, 포토샵을, 포토샵은, Photoshop, 포토샵과, 포토샵의, 애프터이펙트, Photoshop을, Photoshop의, 포토샵이나",True
+cybernetics,사이버네틱스,"인공두뇌학, 인지과학과, 공학, 뇌과학, 사이버네틱스, 복잡계, 정보학, 과학, 인지과학적, 생체공학",True
+download,다운로드,"다운로드, 다운로드2, 다운로드1, 다운로드도, 다운로드3, 다운로드이, 내려받기, 다운로드만, 다운로드에는, 머리글만",True
+computer,컴퓨터,"컴퓨터, 컴퓨터를, 컴퓨터의, 컴퓨터가, 컴퓨터와, 컴퓨터나, 컴퓨터에, 컴퓨터는, PC, 컴퓨터로",True
+web-hosting,웹호스팅,"호스팅, 호스팅은, 웹호스팅, 서비스형, 호스팅의, 웹호스팅의, CDN, 서버관리, 제공업체의, 웹호스팅은",True
+homepage,홈페이지,"바로가기-, 사이트, 홈페이지, 상단메뉴, 파비콘, 첫페이지, 다음블로그, 누리-세종학당, 메인화면, 메인페이지",True
+iPad,아이패드,"아이패드, 아이폰, 아이패드용, iPad2, 아이패드나, iWork, 아이패드프로, 아이패드에서, 아이팟터치의, iPad가",True
+Google-Chrome,구글-크롬,N/A,False
+reverse-engineering,리버스엔지니어링,"역공학을, 기계학습과, 역설계, 툴로는, 난독화, 역공학, 공개소스, 알고리듬, 기계학습, 마이닝을",False
+Star-craft,스타크래프트,N/A,False
+clipboard,클립보드,"클립보드, 필기장, 클립보드에, 화이트보드, 워크시트, 파일등, 휴지통, 클립보드로, 메모장과, Ctrl키",True
+mobile-card,모바일카드,N/A,False
+Nokia,노키아,"노키아, HTC의, 티모바일, 모토로라와, KT테크의, Nokia는, 퀄컴과, 노키아와, Mobileye, 노키아의",True
+buffer,버퍼,"기억장소, bit의, 버퍼, 메모리, 주소지정, PIO, 할당자, 익스텐트, 루틴들, 스누핑",True
+network,네트워크,"네트워크, 네트워크를, 네트워크의, 네트워크가, 네트워크에, 네크워크, 네트웍, 네트워크망, 네트워크와, 네트워크에서",True
+Illustrator,일러스트레이터,"일러스트레이터, 일러스트레이터가, 일러스트레이터와, Illustrator, 일러스트레이터의, 일러스트레이터인, 일러스트레이터는, 표지디자인, 웹분야, 타입페이스",True
+Unix,유닉스,"윈도우즈, 유닉스, Unix의, 윈도우95, X86, 윈도우즈와, 운영체제의, 리눅스, DOS, UNIX와",True
+ActiveX,액티브엑스,"플러그인이나, 플러그인과, 플러그인을, MSXML, Java용, 커맨드라인, Base64, ISAPI, HTML5는, UPnP",False
+entity,엔티티,"entity, 객체, 지분증권, 엔터티, 엔티티의, 주체, 관리기구, 기관, 조직체, 레지스트라",True
+Apache,아파치,"아파치, 아파치의, 롱보우, 알라모, 이클립스, PHP, 이키케, BSD, 얼랭, 윈도7에서",True
+siri,시리,"siri, Siri, 시리, qq, VOIP, Siri가, 햅틱, 금어초, 컬러노트, 음성명령",True
+Social-Media,소셜-미디어,"디지털마케팅, 이커머스, 소셜미디어, 소셜커뮤니케이션, 뉴미디어, 소셜미디어의, 비즈니스인사이더, O2O, 애드테크, 페이스북",False
+Warcraft,워크래프트,"대전게임, 아틀란스토리, 나이트온라인, 판타지마스터즈, 원더5마스터즈, 베요네타, 베틀넷, 워페이스, 구룡쟁패, 타이니팜",False
+client-server,클라이언트서버,"서버-클라이언트, 클라이언트-서버, 소프트웨어용, DCOM, 서버나, COM과, 객체지향, 클라이언트, 멀티테넌시, 클라이언트측",False
+Wikileaks,위키리크스,"위키리크스, 위키리크스가, Wikileaks, 위키리크스는, 위키리크스에서, 위키리크스에, 위키리크스의, 소니픽처스, NSA의, 정보당국",True
+web-site,웹사이트,"모바일사이트, 바로가기-, 사이트, www.cjcity.net, 케벤, 웹주소, 게시판서포터즈, htt, main.jsp, www.empas.com",False
+i-doser,아이도저,N/A,False
+file-system,파일-시스템,"ZFS, VM과, 중복제거, 파티션에서, 파일시스템은, 스냅숏, HADB, LUN, VSAM, 파일시스템",False
+global-navigation-bar,글로벌내비게이션바,N/A,False
+UFC,유에프씨,"WWE, wwe, TNA, 스트로급, RoH, 2vs2, UFC, RK포토, 메인이벤트에서, ESPN",False
+Delphi,델파이,"델파이, Delphi, 델피, 개발도구, CDE, 레일스, IDE를, 델파이의, 테살로니키, 자이썬",True
+empas,엠파스,N/A,False
+iCloud,아이클라우드,"iCloud, iCloud로, iCloud에, 아이클라우드, iCloud와, iCloud를, iCloud는, iCloud의, 아이클라우드를, iOS",True
+Apple-Pay,애플페이,N/A,False
+notebook-computer,노트북-컴퓨터,N/A,False
+Internet-FAX,인터넷팩스,N/A,False
+interactive,인터랙티브,"인터랙티브한, 인터랙션과, 인터렉티브한, 몰입형, 대화형, 인터랙티브, 대화식, e-러닝, 쌍방향, interactive",True
+diskette,디스켓,"삭제기, 디스켓, 디스켓의, 미니디스크, 디스켓에, 저장매체를, 디스켓으로, ROM과, 광디스크, 플로피",True
+internet-marketing,인터넷마케팅,"제휴마케팅, 소셜마케팅, 광고대행, 온라인광고, 웹케시, SNS운영, 허닭, 디지털마케팅, 온라인마케팅, 바이럴마케팅",False
+Paran,파란,"카비르, Arya, 다드, 신두, 쿠트, 르우벤, Brahim, 가데스, 헤르몬, 아람",False
+web-server,웹서버,"웹서버의, 웹서버와, Log4j, OpenWrt, server.xml, 안티멀웨어, OpenVPN, 가상머신이, FTP, 공개용",True
+cybersquatting,사이버스쿼팅,"특허분쟁, 무역사기, 민사소송, 특허괴물, 도메인이름, 소송, 반독점법, 부정경쟁, 도메인이름의, 상표권",False
+WIPI,위피,"ITU-D, ITU-T에서, Monotype, JBIG2, UNESCAP, SeaMonkey, 3GPP에서, Miracast, Widelux, OKF",False
+WYSIWYG,위지윅,"HTML, XSLT, 드림위버가, HTML4와, Emacs, PHP용, AJAX로, 브라우저라는, 위지윅, MSHTML",True
+WordPress,워드프레스,"워드프레스, 워드프레스에는, 워드프레스용, 워드프레스의, 워드프레스나, WordPress, 워드프레스에서는, 워드프레스에, 워드프레스에서, 워드프레스가",True
+diablo,디아블로,"지룡, 파티찾기, 디아블로, 소드맨, 린검사, 볼리베어, 검심, 제로3, 귀검사, 나쵸",True
+online-game,온라인게임,"콘솔게임, 게임전문, 텐센트는, 웹보드, 게임사와, 게임, 게임시장은, 대전게임, 게임사의, MMO",False
+access,액세스,"접근, 접속, 액세스가, 액세스, 접근권, 정보에의, 정보접근, 앱별, 액세스나, 접근할",True
+FORTRAN,포트란,"코볼, 퀵소트, c언어, yacc, 포트란, MATLAB, 논리형, 파일입출력, 포트란은, GML",True
+hacker,해커,"해커, 해커들의, 해커가, 해커의, 해킹, 해킹으로, 해커들이, 해커들, 보안전문가, 해커와",True
+Crowd-Sourcing,크라우드-소싱,N/A,False
+Hangame,한게임,"그라비티는, 윈디소프트, 한국서버, 반다이남코, XBLA, 퍼블리셔인, 엠게임, 감마니아, 스퀘어에닉스의, 스퀘어에닉스",False
+touch-screen,터치스크린,"터치스크린, 터치스크린과, 터치스크린의, 터치스크린을, 터치식, 터치스크린은, 터치스크린이, 터치스크린으로, 투표기, 터치스크린폰",True
+Chromecast,크롬캐스트,"DLNA, 크롬캐스트를, Miracast, 크롬캐스트, 안드로이드TV, 리모콘, iPad2, 크롬캐스트의, 크롬캐스트와, AirPlay",True
+data-warehouse,데이터웨어하우스,"ITaaS, 인메모리, 데브옵스, 웨어하우징, 솔루션들과, 온프레미스와, 웨어하우스를, OLAP, ERP나, 컨버지드",False
+hand-off,핸드오프,"콜백, 핸드오프, 페일오버, 스케쥴링, 핸드오버, 통신장비인, 프로세스, 재난망, 시그널링을, 도상훈련",True
+floating,플로팅,"떠있는, 갑판, 조약돌, 펄이, 바다위에, 부유물, 유영하는, 버블, 박스처럼, 떠다니는",False
+multicast,멀티캐스트,"OSPF, 멀티캐스팅, IGMP, 멀티캐스트, 프로토콜, 시그널링을, 네트워크, 전송계층, VLSM, SS7",True
+pholar,폴라,N/A,False
+algorithm,알고리즘,"알고리즘, 알고리듬, 알고리즘을, 알고리듬은, 알고리즘은, 알고리, 합병정렬, 기계학습, TF-IDF, 알고리즘에서",True
+internet-data-center,인터넷데이터센터,N/A,False
+Say-Club,세이클럽,N/A,False
+unicast,유니캐스트,"6to4, OSPF, UDP가, 유니캐스트, TCP의, IGMP, 시그널링을, 라우터에서, PPTP, OSI참조",True
+parity-bit,패리티-비트,N/A,False
+iTunes,아이튠즈,"아이튠스, iTunes, iTunes에서, 뮤직스토어, iTunes의, 아이튠즈, 아이튠스를, 아이튠즈로, 아이튠즈를, 재생목록에서",True
+Cortana,코타나,"코타나, 코타나가, Siri, Siri가, Siri의, Siri와, Siri에게, A.I., 구글글래스, Siri는",True
+emulator,에뮬레이터,"QEMU, 윈도우XP에서, 에뮬레이터, 에뮬레이션, 커맨드라인, 콘솔, 에뮬레이팅, X86, 콘솔용, 에뮬레이터의",True
+NateOn,네이트온,N/A,False
+mirror-site,미러사이트,N/A,False
+Digital-Signage,디지털-사이니지,N/A,False
+computer-virus,컴퓨터바이러스,N/A,False
+bookmark,북마크,"북마크, 태그별로, 북마크에, 추천버튼, 이미지링크, 북마크하고, 검색바, 월드맵, 만들기3, 정렬방법",True
+overture,오버추어,"서곡, 편곡집, 서곡의, 합창, 연가곡, 성악곡, 제2악장, 내림가장조, 토카타와, 카르미나",False
+Evernote,에버노트,"에버노트의, 에버노트, 문서도구를, 에버노트와, 에버노트나, 에버노트를, 드롭박스와, 에버노트로, 에버노트는, 메모앱",True
+Pinterest,핀터레스트,"오늘의집, DeviantArt, 메타사이트, 트윗믹스, 콘텐츠마케팅, Etsy, 있습니다.페이스북ㅣ, Pinterest, 추천서비스, 애드워즈광고",False
+Profile,프로파일,"프로필, Profile, Home회사, 종합인력개발센터, Hanauer, HanaMinBX, Profiles, F-change, WAGNER, Sports-reference",False
+COBOL,코볼,"코볼, 윈도우즈, GML, C언어는, SQL을, 닷넷, VBA, SQL, 객체지향, SQL의",True
+file,파일,"파일, 저장위치, 파일의, 파일을, 확장자명, .inf, 파일이름, 폴더나, 파일등, 확장명",True
+single-sign-on,싱글-사인-온,"ADFS, 간편인증, SAML, 구축형, 솔루션들과, 플랫폼상에서, 웹애플리케이션, 협업툴, 로드밸런싱, 통합인증",False
+Playstation,플레이스테이션,"게임콘솔, 플레이스테이션, PS비타, XBOX360, 플레이스테이션용, XBOX360용, 플레이스테이션판, PlayStation2, 플레이스테이션VR, XBOX",True
+Aladdin,알라딘,"아라비안, 브로드웨이, 레전즈, 알왈리드, 덤보, 조이랜드, BBV, 위키드, 인어공주, 툿",False
+big-data,빅데이터,"머신러닝, 딥러닝과, 인메모리, 빅데이터, 기계학습과, 기계학습, 빅데이터나, 인지컴퓨팅, 빅데이타, 머신러닝은",True
+trigger,트리거,"끄기, 방아쇠, 완화용, 디버프, 고폭, 필터들, 방사기, 작동된, 發火, 둔감",False
+Napster,냅스터,"냅스터, 소리바다와, 소리바다, 냅스터와, 스포티파이와, 냅스터의, 파일공유, AOL, 마이스페이스의, P2P",True
+stress-test,스트레스-테스트,"스트레스테스트, 테스트, 시나리오별, 파스-타, 유닛테스트를, 테스트를, 평가시스템, 신용평가시스템, 테스트로, 성능평가",False
+Extranet,엑스트라넷,"통합보안솔루션, 무선보안솔루션, 한솔넥스지, 그룹웨어에, 학교홈페이지이용홈페이지이용안내IT서비스, 보안기술과, 그룹웨어와, 그룹웨어의, EDMS, FUKUMI",False
+Retina-Display,레티나-디스플레이,N/A,False
+Tizen,타이젠,"안드로이드웨어, 윈도우폰7, 모토블러, Maemo, 윈도폰7, 안드로이드OS, Tizen, OpenStep, 윈도우폰, 윈도폰",False
+grid-computing,그리드컴퓨팅,N/A,False
+rummikub,루미큐브,N/A,False
+WordArt,워드아트,"글자색, 클립아트, 배경제거, 미자야, Markdown, 워드아트, Text로, 글꼴과, 나눔고딕은, FastStone",True
+segment,세그먼트,"섹션, 방송, 밸류체인, VoD, 인포머셜, 채널별, 채널, 비드라마, 특장, 타깃",False
+jenga,젠가,"젠가, 포켓볼, 퍼즐, 삼매경에, 나인볼, 볼링, 놀이에, 딱지치기, 다트, 트램폴린",True
+true-color,트루컬러,"고해상도, 위성영상, 명암비와, MODIS, 고해상도의, 4K급, 초고해상도, 레이트레이싱, 카시니호, 고해상도와",False
+Newsletter,뉴스레터,"한살림연합, makehope.org, 편집자문위원, imackorea에, APCTP, 뉴스레터와, SOGI법정책연구회, PC사랑, 창간호를, arXiv.org",True
+data-communication,데이터통신,N/A,False
+Anonymous,어나니머스,"19ID, 37ID, nope, 존다리안, 0르릐, 04ID, Opusdei, 김뿌우, 51ID, 슈3花",False
+Adobe-Flash,어도비-플래시,N/A,False
+Program-Counter,프로그램-카운터,N/A,False
+Apple-Watch,애플-워치,N/A,False
+Nocut-News,노컷뉴스,N/A,False
+Windows-Vista,윈도우-비스타,N/A,False
+iPod,아이팟,"아이팟, 아이팟터치의, ipod, 아이폰, iPOD, 아이팟터치, i-Pod, iPod과, iPod, 애플의",True
+image-map,이미지맵,N/A,False
+clip-art,클립-아트,"클립아트, 손그림, 그리기와, 동물그림, 꽃그림, 디자인소스, Gif, 색칠하기, 웹용, 사람아이콘",False
+digitizer,디지타이저,"주변기기와, 가속센서, 디지타이저, 가속도계는, 유에스비, 3D카메라, 가속도계의, 검사장비, 연결단자, 첨필",True
+DCinside,디시인사이드,N/A,False
+applet,애플릿,"실행화면, AJAX로, 소스파일, API입니다, matlab, .EXE, 애플릿, 소켓통신, 실행결과, JNDI",True
+messenger,메신저,"전령, 메신저, 傳令, 염제, 바이버, 김실장, 주소록과, 파일전송, 챗온, 쪽지",True
+mouse,마우스,"생쥐, mouse, 쥐의, 마우스, 강아지나, 쥐, 마우스는, 쥐와, 마우스와, 4족",True
+device-driver,디바이스-드라이버,"ATAPI, APIC, RDM, IOMMU, 스위칭의, ILOM, Windows2000, 소프트웨어용, ASPI, 객체기반",False
+beer-game,비어게임,N/A,False
+hard-copy,하드카피,"전자파일, 인쇄본, 필기장, 전자자료, 전자책을, PDF파일은, 종이문서를, 인쇄물을, 인쇄, 종이문서",False
+computer-network,컴퓨터네트워크,"통신망인, 원격회의, 주소체계, 보안장비, 통신장비인, 정보통신기기, 지능화된, 정보가전, 인터네트워킹, 광역통신망",False
+Usenet,유즈넷,"뉴스그룹, 유즈넷, 전자게시판, 한메일, 파일공유, PC통신이나, Usenet, PC통신, 스누라이프, 2채널의",True
+software-engineering,소프트웨어공학,"애자일, 아키텍처, 프로그래밍, 개발방법론, 분산시스템, 객체지향, 방법론인, 프로토타이핑, UI설계, 프레임웍과",False
+keyword-marketing,키워드마케팅,N/A,False
+CAD-CAM-system,캐드캠시스템,N/A,False
+Headroom,헤드룸,"헤드룸, 100dB, 블라스터X, 천장고, VDC, 34인치, 3m의, 8옴, 30dB, 좌석간",True
+cyber-stalking,사이버스토킹,"스토킹, 성범죄, 악플, 범죄, 괴롭힘의, 성폭력, 특수강간, 악플러들을, 사이버폭력, 악플러",False
+north-bridge,노스브리지,N/A,False
+spam-mail,스팸메일,N/A,False
+thrunet,두루넷,N/A,False
+mailing-list,메일링리스트,"메일링, 메일이나, L10n, XML-RPC, RSS나, MDN, 피드버너, KLDP, 뉴스레터나, 뉴스레터를",False
+Tool-Bar,툴바,N/A,False
+page-view,페이지뷰,"페이지뷰, 순방문자, 클릭당, 방문자수는, 클릭수와, 클릭수, 방문자수, 노출수, 클릭율, 방문자수와",True
+repurposing,리퍼포징,"업사이클, 재활용하는, 재활용, 재활용해, 유휴공간, 재활용한, 활용, 재활용하여, 폐자재, 공공예술",False
+Kartrider,카트라이더,N/A,False
+utility-program,유틸리티프로그램,N/A,False
+video-adapter,비디오-어댑터,N/A,False
+bar-code,바코드,"바코드를, 바코드, 바코드는, 마킹, 바코드와, 영숫자, 점자, 바코드의, 바코드나, 카드형",True
+haptics,햅틱스,"동작인식, 햅틱, 시선추적, 영상기반, 입력장치의, 3D카메라, 무안경, 압력감지, 바이오칩, 터치스크린이나",False
+DivX,디빅스,"H.265, VC-1, Divx, DivX, WebP, VP9, VOB, 윈도우즈용, 히다찌, X-Fi",False
+telebanking,텔레뱅킹,N/A,False
+data-file,데이터파일,"커밋된, 화일에, 포맷된, 데이터파일, BLOB, RDB, .inf, 엑셀파일, .xml, YAML",True
+Set-Top-Box,셋톱박스,"셋톱박스로, Miracast, 셋톱박스, 셋톱박스에서, 셋톱박스의, 인터네트워킹, 베이스밴드, 유선통신, FTTH, 셋톱박스와",True
+docking-station,도킹스테이션,N/A,False
+code,코드,"코드, 코드는, 코드를, 코드에, 코드나, 부호, 전처리기, 음성변환용, 코드가, Code",True
+frame-relay,프레임릴레이,"IGRP는, X.25, CIDR, OOS, VLSM, 2선식, WAE, XDR, 집선, PPTP",False
+microblog,마이크로블로그,"웨이신, 소셜네트워킹, SNS나, 페이스북, 트워터, 트렌딩, SNS, 마이크로블로그, SNS인, 개인홈페이지",True
+smart-card,스마트카드,"비접촉형, 퀵패스, IC카드로, IC카드를, 스마트카드, 카드식, DS-ATC, 카드형, IC카드에, IC카드용",True
+Microsoft-Word,엠에스워드,N/A,False
+Red-Alert,레드얼럿,N/A,False
+hacktivism,핵티비즘,"해킹행동주의, 해커들의, 해킹, 핵티비즘, 분산서비스거부, 사이버테러, 사이버범죄, 해킹의, 사이버공격, 서비스거부",True
+Break-News,브레이크뉴스,N/A,False
+Android-Pay,안드로이드페이,N/A,False
+chipset,칩셋,"칩셋, 통신칩, E6300, 2코어, 칩셋의, P55, 하스웰-E, OMAP3, 리드텍, ARM920T",True
+multiprogramming,멀티프로그래밍,"매니코어, 8086, 멀티스레드, 8086의, JVM의, 메모리관리, RISC와, CISC와, 8051에, 가상머신",False
+rich-media,리치미디어,"인터랙티브한, 애플리케이션, 콘텐츠와, 방송급, 편집기와, 저작도구, 컨텐츠와, 콘텐츠, 멀티미디어를, 데스크톱의",False
+RAM-disk,램디스크,N/A,False
+soribada,소리바다,N/A,False
+Perl,펄,"파이썬, 레일스, PHP, Java나, Java는, 파이썬이나, PHP의, Java에, 프로그래밍, 객체지향",False
+login,로그인,"로그인, 접속2, 로그인-, PW로, 유저네임, 로긴이, 변경방법, 로그인도, 비밀번호만, 비번으로",True
+Carrier-Aggregation,캐리어-어그리게이션,N/A,False
+Firefox,파이어폭스,"브라우저, IE의, 익스플로러, 파이어폭스나, 익스플로러로, 익스플로러도, 익스플로러8, 웹브라우저, Firefox와, 익스플로러에서",True
+altavista,알타비스타,"검색엔진, 검색사이트, 검색엔진은, 검색엔진에서, 검색으로, 자동번역, 엠파스, 구글검색, 야후재팬, 검색서비스",False
+Crazyarcade,크레이지아케이드,N/A,False
+hoax,혹스,"날조, 가짜, 루머, 합성사진, 허위, 필화, 유포는, 僞作, 음모론이다, 구탄",False
+nownuri,나우누리,N/A,False
+Pascal,파스칼,"장피에르, 장-뤽, 프랑소와, 파스칼, 모루아, 멜처, 앙투안, 파스칼의, 자크, 그자비에",True
+skype,스카이프,"화상채팅, 채팅, 화상통화, 랜덤채팅, skype, 스카이프, 채팅으로, 전화통화, chat, 챗질라",True
+world-wide-web,월드와이드웹,"웹, 웹에서, 인터넷, 꽃집은, 터넷, 경매사이트, 확대출시, 뱅킹은, 사이트들의, 결제",False
+ripping,리핑,"밟힌, 훑기, 내려친다, 뜯어내는, 보풀을, 꿰매기, 뭉개, 뭉개고, 튀기, 버리던",False
+Internet-Business,인터넷비즈니스,N/A,False
+alpha-test,알파테스트,N/A,False
+UNIVAC,유니박,"PDP-1, 천공카드, 아이비엠, 멀틱스, 미니컴퓨터의, 에드삭, 베릴로그, PDP-10, 미니컴퓨터, IBM사가",False
+gopher,고퍼,"선충, 진균, 개과, 해충, 사슴이다, 사슴과의, 새똥, 기생충, 해충의, 아기곰",False
+Kindle,킨들,"킨들은, 킨들로, 전자책으로도, 전자책을, Kindle, iBooks, 전자책도, 전자책, eBook은, 전자책은",True
+crawler,크롤러,"크롤러, 웹, 검색엔진, 로봇, 소녀를위한, 스파이더, 엔진, 사이트, 기어호빙기, 아이펀",True
+in-silico,인실리코,"실험계획법, 대사체학, 분석기술, 계산화학, 전임상, 통합분석, 텍스트마이닝, 생물정보, cDNA, 인공신경망의",False
+paging,페이징,"스케쥴링, 기억장치의, 중복제거, VTOC, 테이터, 입출력과, 파티션된, 저장함, 전송이나, 콜백",False
+smart-wear,스마트웨어,N/A,False
+sector,섹터,"산업, 기업, 공공분야, 경제, 금융, 투자시장, 민간경제, 경제산업, 농수산업, 경제시장",False
+viewer,뷰어,"관람자, 감상자, 관람객, 관객의, 화면들, 수용자, 관객, 관람자의, 시청자, 감상자의",False
+ENIAC,에니악,"에니악, 천공카드, 해석기관의, ENIAC, 에니악은, 진공관, 에커트와, 컴퓨터, 해석기관, 에드박",True
+honey-pot,허니팟,"벌들의, 맬웨어, 수백에, 범죄자들이, 조개나, 칡의, 속임수와, 스럽다, 약탈의, 깔때기형",False
+Hangul-domain,한글도메인,N/A,False
+Google-Now,구글-나우,N/A,False
+Scheduling,스케줄링,"스케줄링, 수행시간, 스케쥴링, scheduling, 스케줄링에, 스케줄링과, 오퍼레이션스, 스케줄, 스케줄링된, schedule",True
+Quark-Xpress,쿼크익스프레스,N/A,False
+Hybrid,하이브리드,"하이브리드, 파워트레인은, 프리우스에, 터보엔진, 클래리티, 투스카니가, HDi, CT200h, 올-뉴, 신차뉴스",True
+Athlon,애슬론,"Eee, 인퍼노, Z68, 2414, 정품구입시무상완벽설치, 4857, 3RSYS, R300, PGM-11, 펜티엄3",False
+emoticon,이모티콘,"이모티콘이, 이모티콘과, 이모티콘이나, 이모티콘까지, 이모티콘을, 이모티콘, PPAP, 대화창에, 이모티콘으로, 에모지",True
+look-and-feel,룩-앤드-필,"UI와, UI를, UI, 룩앤필, 디자인과, 사용자환경, UI는, UX로, 기능들과, 개발환경의",False
+merge-sort,머지소트,N/A,False
+Phaser,페이저,"스위치인, 레이저라이터, DS2, 디텍터, PDK, GbE, 680i, 이근행, 7.2.5, 3.2에서",False
+Qshing,큐싱,N/A,False
+buffer-memory,버퍼메모리,N/A,False
+south-bridge,사우스브리지,N/A,False
+serial,시리얼,"시리얼, DB-25, GPIB, 패러럴, Serial, 시리얼통신, RS232C, RS232, USB의, A00",True
+multiprocessing,멀티프로세싱,"병행성, OpenMP, RDMA, 쓰레딩, 반가상화, 곱셈기, JVM의, 스레딩, 멀티쓰레드, 큐잉",False
+plug-in-program,플러그인-프로그램,N/A,False
+minicomputer,미니컴퓨터,"천공카드, 미니컴퓨터의, 컴퓨터, 메인프레임, 미니컴퓨터, APPC, 마이크로프로세서, 호환기종, 아이비엠, 8086은",True
+GeForce,지포스,"슬레이트7, 레드스톤2, 메탈레이지, Windows10, DXVA, 2600용, 엔포스2, RX480, DX11, GP32",False
+media,미디어,"미디어, 매체들, 언론, 매체, 매체의, SNS, 매체나, 매스미디어, 매체들과, 미디어의",True
+logout,로그아웃,"로그인, 팝업창, 기본설정, 재실행, 사용안함, 사용안함으로, 로그오프, 파일삭제, 쿠키삭제, 종료버튼",False
+shockwave,쇼크웨이브,"충격파, 파편형, 호밍, 추진형, 사이오닉, 빙결, 붕권, 입자나, 衝擊, 어택",False
+Host-Card-Emulation,호스트-카드-에뮬레이션,N/A,False
+cyberslacking,사이버슬래킹,N/A,False
+Microsoft-Office,엠에스오피스,N/A,False
+Maxmovie,맥스무비,N/A,False
+NOR-flash-memory,노어플래시메모리,N/A,False
+click-and-mortar,클릭앤드모타르,N/A,False
+Dithering,디더링,"자유민주당, 네탄야후, 럼스펠드, 시퀘스터, 디더링, 이을드름, 긴축정책이, 네타냐후, 교착상태, 봉쇄정책",True
+partition,파티션,"파티션, 파티션과, 분할, partition, 파티션을, 파티션의, Partition, 파티션은, 파티션이나, 分割",True
+Batoo,바투,"AHO, 쿠안탄, BHR, BNS, 파흐투프, 바마나, 아바사, Putra, 카타니, Sheikh",False
+internet-cafe,인터넷카페,N/A,False
+microprogram,마이크로프로그램,"기계어, 비순차, 8086의, 곱셈기, 8051의, 주기억, 소자나, 64KB의, 주소지정, 기억장치",False
+cyberterror,사이버테러,"보안위협, 분산서비스거부, 사이버공격, 사이버공격은, 사이버테러, 사이버공격이, 사이버전, DDos, 테러나, 보안위협에",True
+biocomputer,바이오컴퓨터,"생체공학, 인공두뇌학, iPS, 세포, 뇌과학, 복잡계, 뇌, 인공장기, 뇌와, 자기복제",False
+Baldur's-Gate,발더스게이트,N/A,False
+Pentium,펜티엄,"ARM7, 팬티엄, 6809, 펜티엄3, 5xx, 사이릭스, 2.0Ghz, SGRAM, ddr3, 68k",True
+internet-hub-site,인터넷허브사이트,N/A,False
+truetype,트루타입,"확장자의, 확장자는, 쌍림빌딩, .hex, Shvetsov, MS-DOS와, .ttf, ALZ, 760-762, .HWP",False
+repository,리포지터리,"저장소를, 레파지토리, Repository, 저장소, 레파지토리에, 데이터베이스명, 디렉토리와, 설정파일, 리포지터리, vApp",True
+White-box,화이트박스,"FlexGrid, UnixWare, 테스팅, 멀티스레드, 싱글스레드, 가상화, MIL-STD-498, 글래스피시, Platform은, 멀티프로그래밍",False
+host-computer,호스트컴퓨터,N/A,False
+Netbook,넷북,"넷북, 노트북, Eee, Xoom, 노트북이라, Laptop, 넷북이나, 미니노트북, 넷북의, 스마트패드",True
+cable-modem,케이블모뎀,"모뎀, 회선의, 1Gbps의, 모뎀은, 100Mbps의, 다이얼업, 전송망, 접속서비스, 인터넷망, 5Gbps의",False
+nate,네이트,"EJ, zee, Suade, ̩, neul, yb, jm, rz, iam, rn",False
+assembler,어셈블러,"기계어, 퀵소트, 아트멜, Verilog, 논리형, FPGA의, 프로그래밍, 헤더파일, JVM, 툴체인",False
+superscalar,슈퍼스칼라,"CISC, 아키텍처인, 아키텍처나, 객체지향, CISC와, 아키텍쳐인, 슈퍼스칼라, 아키텍처와, RISC와, 고수준",True
+Deep-Blue,딥블루,N/A,False
+groove,그루브,"재지한, 팝재즈, 훵키한, 재즈부터, 레가토, 붐뱁, 신스의, 신스가, 전자음, 튠을",False
+engine,엔진,"엔진, 엔진의, 엔진을, 아이펀, 엔진은, 엔진에, 엔진이나, 엔진과, 12기통, 디젤",True
+operator,오퍼레이터,"자동화시스템, 오퍼레이터, 승강기, TGIS의, 제어시스템의, 안리쓰, 운영업체, operator, 주차관리, KSAR",True
+word-processor,워드프로세서,"마크다운, 워드프로세싱, 워드프로세서, MS워드, 워드프로세서나, 워드프로세스, 워드프로세서는, 워드프로세서를, 필기장, 파워포인트나",True
+call-back,콜백,"전화, 콜백, 착신, 단문메시지, 전화응대, 응대, 문자전송, 문자수신, 음성사서함, 팩스",True
+CeBIT,세빗,"세빗, 한국전자전, Cebit, 모바일월드콩그레스, CeBIT, 가전박람회, eGISEC, 국제가전박람회, SECON, 게임스컴",True
+virus-marketing,바이러스마케팅,N/A,False
+hybrid-computer,하이브리드컴퓨터,N/A,False
+iMac,아이맥,"맥북프로, 맥북프로와, iMac을, 맥북프로는, 매킨토시나, OSX, A5X, 맥프로, Windows10, 9.7형",False
+memory-interleaving,메모리-인터리빙,N/A,False
+Thread,스레드,"thread, 3238, 3038, 총회소식, 8230, 5091, Rasberry, 7914, dopt, 9367",False
+boot-virus,부트바이러스,N/A,False
+love-virus,러브바이러스,N/A,False
+shared-memory,공유메모리,"프로세스간, X.25, 큐잉, 매니코어, CISC, DCOM, 뉴타닉스, 퀵소트, 클라이언트-서버, 객체지향",False
+NetWare,네트웨어,"NFS, 스냅인, 윈도우98, 4소켓, CIFS, 윈도우즈, 로드밸런서, 워크그룹, VMM, SAN은",False
+Screen-Scraping,스크린-스크래핑,N/A,False
+programming-language,프로그래밍언어,"프로그래밍, 개발언어, 객체지향, 언어용, 객체지향적, 라이브러리나, 구현체, 퀵소트, UML과, 프로그래밍에",False
+bus,버스,"버스, 버스를, 버스에, 정류장의, 센트럴병, 승차장, 버스에는, 버스의, 대절, 버스에서",True
+analog-computer,아날로그컴퓨터,N/A,False
+Maya,마야,"마야, 자하라, 바하에, 안젤루, 티칼, 마아트, 가야트리, 아나야, 그레코, 멜리나",True
+upload,업로드,"업로드, 업로드하기, 업로드용, 업로드하거나, 올리기와, 업로드해서, 첨부하기, 업로드를, 저장위치, 파일저장",True
+macro-virus,매크로바이러스,N/A,False
+Simcity,심시티,"심시티, 밸브사의, 빌드잇, 1.6.6, 에뮬레이터, 문명5, v1.5, RC1, 팝캡, Crysis",True
+computer-vaccine,컴퓨터백신,N/A,False
+Add-On-Program,애드온-프로그램,N/A,False
+galaga,갤러그,"벽돌깨기, 갤러그, NES용, 오락실게임, 와리오랜드, 콘솔용, 알카노이드, wii, 파크라이, 액션게임의",True
+Flash-Animation,플래시애니메이션,N/A,False
+celeron,셀러론,"비쉐라, 5xx, ddr3, 팬티엄, X64, 4790, ARM7, ARM920T, 4044, DDR2",False
+patch-program,패치프로그램,N/A,False
+BASIC,베이식,"데이터버스, 8KB, i960, 128K, OCaml, 16-bit, 배커스-나우르, i486, 80386, GW-BASIC",False
+Web-Casting,웹캐스팅,N/A,False
+nano-computer,나노컴퓨터,N/A,False
+netsgo,넷츠고,N/A,False
+Fibre-channel,파이버-채널,N/A,False
+multicodec,멀티코덱,N/A,False
+EMACS,이맥스,"UNIX와, 윈도우즈에서, X86, Unix, 윈도우즈용, AMD64의, GNU는, 윈도우즈와, 운영체제에는, 토르발스가",False
+cyber-money,사이버머니,N/A,False
+Orange-Book,오렌지북,N/A,False
+trackball,트랙볼,"터치패드, 입력장치의, 입력장치가, 입력장치, 마우스는, 트랙볼, 키보드, 입력장치는, 터치패드의, 키보드나",True
+bloatware,블로트웨어,"안드로이드보다, 안드로이드의, 윈도폰7을, 커스텀롬, os, 스펙다운, 윈도폰7, 윈도폰7의, OS만, 폰들이",False
+Google-Wallet,구글-월렛,N/A,False
+Memory-card,메모리카드,N/A,False
+digital-camera,디지털-카메라,"카메라, 광학기기, 디지털카메라, 카메라폰, 카메라용, 디지털카메라는, NX200, 고화소, 디카나, 노출계",False
+wheel-mouse,휠마우스,N/A,False
+billing-system,빌링시스템,N/A,False
+white-space,화이트스페이스,"줄바꿈, 글꼴의, 가변폭, 여백, XHTML에서, 고정폭, 한정자, XHTML에서는, 태그로, 빗금",False
+RollerCoaster-Tycoon,롤러코스터-타이쿤,N/A,False
+Code-Red,코드레드,N/A,False
+touch-pad,터치패드,"키보드, 터치패드에, 터치패드, 키보드나, 트랙패드, 터치패드는, 터치식, 터치패드도, 정전식, 마우스나",True
+internet-cafe,인터넷카페,N/A,False
+CASE-tool,케이스툴,N/A,False
+Icon,아이콘,"아이콘, 아이콘팩, ICON, BBQ창업, Icon, CorelDRAW, 로슬랴코바, Reddot, 라인아이콘, 블라다",True
+web-animation,웹애니메이션,N/A,False
+WikiWiki,위키위키,"MSHTML, KHTML, 모니위키, 태터툴즈를, 위키피디아처럼, 모니위키의, 백괴게임, ASP.NET에서, 위키위키는, 위키위키웹",True
+HomeKit,홈킷,"IoT, 홈킷, SmartThings, SmartThinQ, 커넥티비티, 스마트홈, iCloud를, 홈오토메이션, Miracast, Siri",True
+cyberliteracy,사이버리터러시,N/A,False
+digital-computer,디지털컴퓨터,N/A,False
+Lotus-Notes,로터스-노츠,N/A,False
+X-Box,엑스박스,"패미컴, PS비타, 게임콘솔, 게임기를, 콘솔게임기, PC-FX, xbox, 게임만, 게임들을, 게임도",False
+Real-Player,리얼플레이어,N/A,False
+Real-Audio,리얼오디오,N/A,False
+cache-server,캐시서버,N/A,False
+joke-virus,조크바이러스,N/A,False
+Opt-in-mail,옵트인메일,N/A,False
+splogger,스플로거,N/A,False
+parity-check,패러티-검사,"LDPC, BCH, 3비트, PHY, 선형, 곱셈기, EBP, QAM, 합병정렬, 해싱",False
+Homonarrans,호모나랜스,N/A,False
+Utility-Computing,유틸리티-컴퓨팅,N/A,False
+computer-program,컴퓨터프로그램,"곱셈기, 소프트웨어, 8051의, 회로설계, Verilog, 설계용, LDPC, 가감산기, verilog, 장치별",False
+routine,루틴,"루틴을, 일상, 운동시간, 취침, 루틴, 체형교정, 출근, 매일하는, 야근과, 자세교정",True
+hand-scanner,핸드스캐너,N/A,False
+shinbiro,신비로,N/A,False
+dot-matrix-printer,도트매트릭스프린터,N/A,False
+system-file,시스템-파일,N/A,False
+RAMDAC,램댁,"SVGA, 그래픽코어, DDR266, PHY, 12비트, 16MHz, 멀티미디어카드, AC97, PC133, EAX를",False
+Hanmir,한미르,N/A,False
+PostScript,포스트스크립트,"포스트스크립트, 포스트스크립트를, Unix의, 오픈지엘, PDF는, 고스트스크립트, 도스에서, PDF를, CICS, COFF",True
+free-software,프리소프트웨어,"오픈소스, 오픈소스이며, 소프트웨어, 오픈소스와, 오픈소스의, 자유소프트웨어, 공개소스, 소프트웨어란, 오픈소스나, 공개소프트웨어",False
+Ada,에이다,"캠브릿지의, 루이자, 엘레노어, 팔머의, 에드슨, 마리언, 브론테와, 고슬링은, 고긴스, 파나베이커",False
+terabit,테라비트,"20Gbps, 40Gbps, Gbps, 10Gbps, 12Gbps, 기가급, 100Gbps, 2Gbps, 10Gbps의, 5Gbps",False
+QuickTime,퀵타임,"QuickTime, Windows7, 윈도우즈와, IE10에서, 보이스오버, VC-1, WebP, VMWare에서, OSX, 팟플레이어에서",False
+PetaFlops,페타플롭스,N/A,False
+Arcturus,악튜러스,"알파별은, 탄티브, 에타별은, 마리너, 폴룩스, 항성종족, 고사머, 레다, 목성, 디오네",False
+Baud,보드,"이름가르트, 그리모, Lavelle, 롱사르, 메지에르, Philibert, Beaumarchais, Ohm, 상티, 달브레",False
+degausser,디가우서,"케이블타입, 실험실용, RWR, 나노코팅, 특징소형, 기능이있는, 장비용, 고내구성, 금속용, 계측기기",False
+One-Number-Service,원넘버서비스,N/A,False
+Node,노드,"nodejs, node, 컴포넌트들, pom.xml, XPCOM, 어노테이션은, web.xml, node.js, JMX, 유효범위",False
+Weave,위브,"튜토리얼에서는, 싱글톤, 메소드와, 쉐이더를, 8525, 아르간, 리버싱, XBL, 자바스크립트는, 스키마에서",False
+bot-program,보트프로그램,N/A,False
+dreamwiz,드림위즈,N/A,False
+booting,부팅,"부팅, 부팅을, 부팅이, 안전모드, 부팅하고, 부팅하여, 재부팅, 부팅시, 부팅되고, 부팅은",True
+microcomputer,마이크로컴퓨터,"8051은, 중앙처리, 곱셈기, Z80, VLSI, 마이크로컴퓨터, 마이크로프로세서, 마이컴, 컴퓨터, 전자계산기",True
+network-architecture,네트워크아키텍처,N/A,False
+mail-merge,메일머지,"마크다운, 문서파일, XML이나, DOCX, 템플릿에는, XSLT는, 편집기와, 문서용, 서식과, 서식있는",False
+teleport,텔레포트,"호밍, 특수무기의, 타운트, NPC를, A버튼을, 일정확률로, 공격마법, 순간이동도, 던전이나, 몹이",False
+dual-system,듀얼시스템,"화상처리, 공기식, TV출력, TV폰, 아나로그, 직병렬, 전차량에, 4극, 충전방식, 폐색방식",False
+Dhrystone,드라이스톤,"포트란, 단정밀도, SciPy, 넘파이, JSTL, 퀵소트, Infix, 전처리기, 합병정렬, JVM의",False
+simmani,심마니,N/A,False
+drum-scanner,드럼스캐너,N/A,False
+sound-card,사운드카드,"음질의, 음향기기와, DAC에, 16채널, 스피커, ADPCM, HDMI나, 스피커가, HDMI로, 앰프도",False
+on-line-system,온라인시스템,N/A,False
+super-computer,슈퍼컴퓨터,"슈퍼컴퓨터, 양자컴퓨터, 기계학습과, 슈퍼컴퓨터에, 슈퍼컴퓨터와, 뉴로모픽, 양자암호, 컴퓨터, 슈퍼컴퓨터가, DGX",True
+digital-communication,디지털통신,N/A,False
+database-file,데이터베이스파일,N/A,False
+disk-mirroring,디스크-미러링,N/A,False
+server-hotel,서버호텔,N/A,False
+mobile-computing,모빌컴퓨팅,"PC시장, 스마트패드, 스마트폰, PC시장이, 휴대폰용, PC시장의, 디지털기기, ITaaS, 포스트PC, 컴퓨팅",False
+traffic,트래픽,"트래픽, 교통량, 교통, 체증, 주정차, 차량통행, 교통량과, 교통체증과, 혼잡과, 교통정체",True
+ALGOL,알골,"코볼, ALGOL, 논리형, FORTRAN, OCaml, 브레인퍽, REXX, 제네릭스, MATLAB, 객체지향",False
+internet-vortal-site,인터넷보탈사이트,N/A,False
+Internet-Radio,인터넷라디오,N/A,False
+Webaholic,웹홀릭,N/A,False
+backbone-LAN,백본랜,N/A,False
+courseware,코스웨어,"e-러닝, 코세라, 교육콘텐츠, 코스웨어, 이러닝, 소프트웨어, 멀티미디어콘텐츠, e러닝, 학생관리, KOCW",True
+lite-ware,라이트웨어,N/A,False
+cyberapt,사이버아파트,N/A,False
+ebrand,이브랜드,N/A,False
+Grid,그리드,"그리드, grid, Grid, 밸런싱과, 인터넷데이터센터, Overlay, XPCOM, Telco, 지그비, 지오로케이션",True
+subroutine,서브루틴,"제어문, 전처리기, 조건문과, 헤더파일, 반복문, 리터럴, 공용체, 프로시져, 0x10, 반복자",False
+cyber-shopping-mall,사이버쇼핑몰,N/A,False
+ball-mouse,볼마우스,N/A,False
+entertainment-fund,엔터테인먼트펀드,N/A,False
+finger,핑거,"엄지로, 엄지, 약지, 손가락, 검지로, 눈썹, 검지의, 발가락만, 팔의, 핥을",False
+dial-up,다이얼업,"회선의, 회선, 1Gbps의, 2Mbps, Gbps의, 100Mbps의, DDNS, 기가급, 5Gbps의, 100Mbps",False
+ENUM,이넘,"XML, SGML, XML-RPC, 어노테이션, MQTT, XLIFF, Base64, JAVA의, 전역변수, 오버로딩",False
+downsizing,다운사이징,"인력감축, 다운사이징, 퇴직, 임금동결, 축소, 인원감축, 재편, 희망퇴직, 조기퇴직, 공유화",True
+pointing-stick,포인팅스틱,N/A,False
+meta-engine,메타엔진,N/A,False
+Windows-Mobile,윈도우-모바일,N/A,False
+Blogger.com,블로거닷컴,"티스토리나, 라이브저널, 블로그, 올블로그를, 올블로그에, 블로그코리아, Daum을, 티스토리, 아이디스크, 이글루스와",False
+Inbound-link,인바운드-링크,N/A,False
+Giga-Fi,기가파이,N/A,False
+upgrade,업그레이드,"업그레이드를, 업그레이드, 업글, 업그레이드하거나, 업그레이드나, 다운그레이드, 업그레이드에, 클린설치를, 업그레이드인, 업그레이드와",True
+Tetris,테트리스,"갤러그, 벽돌깨기, 퍼즐게임이, 게임을, 게임이, 패미컴, 리듬게임, 대전액션, 대전격투게임, 보드게임으로",False
+audio-video-interleaving,오디오비디오인터리빙,N/A,False
+folder,폴더,"폴더, 폴더를, 폴더나, 파일, 파일목록, 폴더의, .xml, 파일을, 폴더내, .TXT",True
+bug,버그,"버그들이, 버그, 버그를, 버그도, 버그가, 버그는, 트래커에, 버그나, 수정3, 버그로",True
+Cinepak,시네팩,"VC-1, 리얼오디오, 리얼비디오, VP9, AVI, LZMA, WebP, ADPCM, VP8, 2.0Ghz",False
+interleave,인터리브,"주소지정, 입출력과, 버퍼를, 인코드, FIFO, bit의, 소팅, 커밋된, 스케줄링된, 스케줄링할",False
+negware,네그웨어,N/A,False
+combi-card,콤비카드,N/A,False
+Opera,오페라,"오페라, Opera, 오페라도, 세미라미데, 라스칼라, 오페라와, 오페라의, 심포니와, 오페라는, 아스토텔",True
+access-time,액세스타임,N/A,False
+Netscape-Communicator,넷스케이프커뮤니케이터,N/A,False
+zip-disc-drive,집디스크드라이브,N/A,False
+InnoCentive,이노센티브,"매쉬업엔젤스, 인디고고, 류중희, 올라웍스, 소셜벤처와, C-Lab, 창업가들이, 인공지능시대에, 하이퍼루프, 캡스톤파트너스",False
+neuro-computer,뉴로컴퓨터,N/A,False
+man-machine-system,맨머신시스템,N/A,False
+computopia,컴퓨토피아,N/A,False
+Unitel-networks,유니텔네트웍스,N/A,False
+Transistor-Transistor-Logic,트랜지스터-트랜지스터-로직,N/A,False
+nimda-virus,님다바이러스,N/A,False
+backup-file,백업파일,N/A,False
+DirectX,다이렉트엑스,"DX12, OpenVG, DirectX, Windows8, OpenMP, OpenGL, DXVA, BIOS의, WindowsXP, 4.2.0",False
+Melisa-virus,멜리사바이러스,N/A,False
+Blue-jacking,블루재킹,N/A,False
+news-group,뉴스그룹,N/A,False
+FIFA-series,피파시리즈,N/A,False
+Google-dance,구글댄스,N/A,False
+Upkorea,업코리아,N/A,False
+authoring-tool,오소링툴,N/A,False
+film-scanner,필름스캐너,N/A,False
+warez,와레즈,"파일공유, 와레즈, 성인물, 게시물-, 성인정보, 음란물, phpBB, 토런트, 공유요청, 음란사이트",True
+Lynx,링스,"퓨마, 와이번, 막스맨, 윙라이온, 피어리, 블루에어, 빅커스, X급, 거너스, 비미",False
+Nassi-Shneiderman-diagram,나시슈나이더만도,N/A,False
+discommunication,디스커뮤니케이션,N/A,False
+heterodyne-detection,헤테로다인검파,N/A,False
+WinZip,윈집,"윈도우즈용, 바이로봇, 윈도우에서도, Windows와, 매킨토시용, 리눅스용, 통합버전, 윈도우, 시큐어디스크, WinSCP",False
+drag-and-drop,드래그-앤드-드롭,"드래그앤드롭, 템플릿에는, 대상체, 클립보드, Html5, 편집기인, WinRT, 편집기의, 임베드된, 워크플로우",False
+web-jockey,웹자키,N/A,False
+Passport,패스포트,"여권발급, 자동출입국심사, 전자여권, 운전면허증, 인증의, 소지자의, 마스타카드, 여권사본, 전자여행허가, 운전면허증과",False
+infranet,인프라넷,N/A,False
+internet-live,인터넷라이브,N/A,False
+darwin,다윈,"생물다양성, nov, gcc, Darwin, 용불용설, 다윈, 기계론적, 문신용, 펭귄이다, technetium",True
+iCHAT,아이채트,N/A,False
+internet-governance,인터넷거버넌스,N/A,False
+memory-stick,메모리스틱,N/A,False
+Corel-Painter,코렐페인터,N/A,False
+Yellow-Page,옐로페이지,N/A,False
+Radeon,라데온,"엔포스2, 2.0GHz, E6300, GAINWARD, OMAP3, E5-2600, 2.0Ghz, X86, 6600GT, i.MX6",False
+publizen,퍼블리즌,N/A,False
+Cocoa,코코아,"망고, 예르바, 코코넛, 섬머랜드, 미아미, 타피오카, 바라데로, 킹피셔, 타마린드, 카라멜",False
+posdaq,포스닥,N/A,False
+mobile-care,모바일케어,N/A,False
+Centrino,센트리노,"ULV, F110, OMAP3, 1.4GHz, GDDR5X, 테그라3, E6300, XD10, 옥타코어, ARM7",False
+One-Click,원클릭,"원클릭, EasyBee, 초성검색, 간편설정, FireFox, Q퀵메뉴, 클릭만으로, 광고제거, 앱에서만, 알PDF",True
+internetwork,인터넷워크,"유니캐스트, 컴퓨터간, 전송계층, 네트워크, 로드밸런싱, 주소체계, 광역통신망, VLSM, 서버-클라이언트, OSI참조",False
+network-computer,네트워크-컴퓨터,N/A,False
+ecard,이카드,"추천어플, Gif, 감사카드, 노래책, 선물, 추천검색어, 핀13, Email, 단문메시지, 어버이날",False
+fax-modem,팩스모뎀,N/A,False
+Ogg-Vorbis,오그보비스,N/A,False
+Clearing-house,클리어링-하우스,N/A,False
+smurfing,스머핑,"유해물, 맵핵, 어뷰징, 버섯류를, 사행성, 은어나, 신조어들이, 배틀넷에서, 금칙어, 채팅의",False
+Antikythera-Mechanism,안티키테라메커니즘,N/A,False
+system-cooling,시스템쿨링,N/A,False
+dreamx,드림엑스,N/A,False
+zip-drive,집드라이브,N/A,False
+Wintel,윈텔,"데스크탑, IBM, X86, 서버용, XT와, 윈텔, 윈도OS, 메인프레임과, PC, Eee",True
+chatting,채팅,"짝꿍과, 채팅, 대화하던, 지인들끼리, 채팅을, 지인과의, 단톡방에서, 채팅도, 채팅의, 잡담하는",True
+sky-internet,스카이인터넷,N/A,False
+cyber-mentoring,사이버-멘토링,N/A,False
+laptop-computer,랩톱컴퓨터,N/A,False
+Gathering-Site,게더링사이트,N/A,False
+rightsizing,라이트사이징,"비핵심, 효율화, 팀제, IT환경, 핵심사업, 구조조정, 슬림화, 재원확보, 조직운영, 업무개선",False
+global-data-base,글로벌데이터베이스,N/A,False
+visual-programming-tool,비주얼프로그래밍툴,N/A,False
+Chinanet,차이나넷,N/A,False
+matchmail,매치메일,N/A,False
+lower-CASE-tool,로어케이스툴,N/A,False
+home-computer,홈컴퓨터,"컴퓨터, 태플릿, 게임기들이, 콘솔, 미니컴퓨터, 게임기와, 콘솔게임기, 게임콘솔, 개발사들, 콘솔과",False
+Adam,아담,"아담, 애덤, 윌크, 헤이거, 데넷, 버넷은, 맥나이트, 램버트와, 스미스나, 랄라나",True
+bundling,번들링,"분리공시, 번들링, 번들, 분리공시제, 기기간, 툴키트, 과금, 인앱, 결제, 간편화",True
+Family-Computer,패밀리컴퓨터,N/A,False
+cuscom,커스컴,N/A,False
+serial-mouse,시리얼마우스,N/A,False
+fire-wall,파이어월,"방화벽이나, 보안, 암문, 방화벽과, 방화벽을, 방화벽, 면진, 안전난간, 외벽과, 중앙식",False
+NetView,넷뷰,"CUBRID, ipDISK, 조달등록, UPnP, v5.0, 성능관리, 서버이며, DB2, 브로드소프트, EDMS",False
+Winamp,윈앰프,"윈앰프, 윈엠프, 윈도우즈용, 플레이리스트의, 2.0.6, KMPlayer, KMP, ICNS, 3.0.0, 리눅스커널",True
+mode,모드,"모드, 모드로, 모드를, 모드는, 일반모드, 모드로의, 모드인, 모드-, 모드에, 모드일",True
+audiovisual,오디오비주얼,"영상기술의, 멀티미디어, 시청각, 영상기술, 음향, 영상매체, 영상산업과, 3D입체영상, 시청각적, 보조공학",False
+Cell-relay,셀릴레이,N/A,False
+packaged-program,패키지-프로그램,N/A,False
+jaz-drive,재즈드라이브,N/A,False
+serial-printer,시리얼-프린터,N/A,False
+black-box,블랙박스,"비구조적, 기법들의, 고수준, 예측적, 자료흐름, 모놀리딕, STL의, 다계층, 휴리스틱은, 데이터들로",False
+love-love-simulation,러브러브시뮬레이션,N/A,False
+soldier-machine,솔저머신,N/A,False
+digital-pen,디지털-펜,N/A,False
+Cyber-Party,사이버파티,N/A,False
+item,아이템,"품목, 품목들, 아이템, 메일편, R급, 선물함, 항목, 물품명, 거래불가, 물품",True
+data-bank,데이터뱅크,N/A,False
+Secure-Shell,시큐어-셸,N/A,False
+Master-Boot-Record,마스터-부트-레코드,N/A,False
+brochure-ware,브로슈어웨어,"반응형, 워드프레스닷컴, 웹분석, MSHTML, 워드프레스는, 구축형, 검색엔진이나, 워드프레스용, 그룹웨어와, 워드프레스로",False
+netian,네띠앙,N/A,False
+magistre-virus,매지스트르바이러스,N/A,False
+hit,히트,"히트, 히트다, 히트시킨, 히트한, 1억뷰, 점프해서, 튕기면, 점프해, 쳐내, 21작품",True
+Usenet-News,유즈넷-뉴스,N/A,False
+E-mail-Magazine,이메일매거진,N/A,False
+KORNET,코네트,N/A,False
+etizen,이티즌,N/A,False
+Spook-Valley,스푹밸리,N/A,False
+dsniff,디스니프,"FTP서버, 와이어샤크를, tcpdump, nslookup, mysqldump, 실행파일에, libpcap, Metasploit, GDB를, rootkit",False
+Webcam-Service,웹캠서비스,N/A,False
+joy-stick,조이스틱,"가속도계는, 삼각대와, 헬리컬, 가속도계와, 특징디지털, 짐벌에, 블랭킹, 동작인식, 촬영모드를, 가속도계",False
+Media-Control-Interface,미디어컨트롤인터페이스,N/A,False
+local-attack,로컬공격,N/A,False
+Blook,블룩,"Hackescher, 암흑기사, Skt, Jed, Lemans, Petrie, Österreichischer, fischer, Neuen, Mauer",False
+robot-language,로봇언어,N/A,False
+omni-com,옴니콤,N/A,False
+permunication,퍼뮤니케이션,N/A,False
+home-bus,홈버스,N/A,False
+Webtop-Service,웹탑서비스,N/A,False
+HotDog-program,핫도그프로그램,N/A,False
+INFORTERA,인포테라,N/A,False
+telegram,텔레그램,"편지, 전보로, 답신, 便紙, 공한을, 4통의, 우편, 전보를, 치머만, 양유찬의",False
+custom-communication,커스텀커뮤니케이션,N/A,False
+nonimpact-printer,논임팩트프린터,N/A,False
+common-carrier,코먼캐리어,"철도, 유선통신, 기계기구, 국유, 주주명부, 암트랙의, 鐵道, 권원, 공시대상, 노선",False
+computer-art,컴퓨터아트,N/A,False
+cyberspy,사이버스파이,N/A,False
+graphic-display,그래픽디스플레이,N/A,False
+Green-Mark,그린마크,N/A,False
+mesa,메사,"메사, 칼라무치타, 능선, 암맥, 수풀과, 아나사지, 노두, 용암, 아타카마, 항가이",True
+multi-sync-monitor,멀티싱크모니터,N/A,False
+digerati,디저라티,"리더들, IT업계, 얼리어답터, 포스트PC, 얼리어댑터, Web2.0, 웹2.0은, IT업계의, 얼리어답터의, SNS라고",False
+fortress-blue,포트리스블루,N/A,False
+anti-internet,안티인터넷,"UCC와, 패륜적인, 싸이버, 반한류, 망중립성, 여론몰이와, 실명제에, 극우보수, 남성혐오, 절독",False
+IDP-system,아이디피시스템,N/A,False
+nibble-mode,니블모드,N/A,False
+Intelsat,인텔샛,"아리안스페이스, 정지궤도, JAXA는, ITU, 유럽우주국이, 인공위성인, 움브리엘, ARD, 베피콜롬보는, 위성방송",False
+buffer-under-run,버퍼언더런,N/A,False
+SYSOP,시솝,"FQDN, SFTP는, 시냅틱, WBXML, KLDP, Whois, Telnet, sysconfig, 백본망과, sshd",False
+cyber-trading,사이버트레이딩,N/A,False
+netpy,넷파이,N/A,False
+Carnivore,카니보어,"해면동물문, 동부늑대, Sirloin, 바닷가재를, 고함원숭이, 고함원숭이아과, 하이에나, 수생생물, 콘도르, Clupea",False
+PowerNow,파워나우,"POWER7, 파워나우, Extender, 8514, X200, Cleaner, Add-On, 저발열, SPU, LPDDR4X",True
+intercast,인터캐스트,"혼외, 이성간, 결혼, 이혼문제, 혼외관계, 가족관계론, 미혼여성은, 결혼조건, 結婚, 사실혼",False
+Infoseek,인포시크,"YAHOO, 알타비스타, 검색엔진, 야후코리아, 인포시크, 라이코스를, 야후와, 디비딕, 네이버컴, 파란닷컴",True
+Sonoma,소노마,"캘리포니아州, 산타클라리타, 테메큘라, 멘로파크, 아고라힐스, 샌디에이고, 파시파니, 쿠퍼티노에서, 오하이, 모건힐",False
+cyber-coin-service,사이버코인서비스,N/A,False
+Internet-Society,인터넷소사이어티,N/A,False
+knowledge-engineer,놀리지엔지니어,N/A,False
+WebBench,웹벤치,N/A,False
+graphics-engine,그래픽스엔진,N/A,False
+Sneaker-net,스니커넷,N/A,False
+officecomputer,오피스컴퓨터,N/A,False
+censorware,센서웨어,"액티브X의, 검색엔진, 액티브X와, 서비스거부, XSS, 스파이웨어, 안티스팸, 웹사이트들에, 클릭재킹, MS사",False
+NetPC,넷피시,N/A,False
+up-sizing,업사이징,"크기, 거실장을, 부품수를, 8인치로, 기존제품, 28배, 가계비, 고정비, 적재물의, 경차나",False
+hypergraphic,하이퍼그래픽,N/A,False
+QCad,큐캐드,".hex, 데비안에서, 32비트용, 64비트용, 툴체인은, Notepad, Libtool, IDE는, 64비트도, 32비트와",False
+KaZaA,카자,"파일공유, 소리바다와, 다운로드나, 소리바다를, 냅스터, 비트토렌트와, 비트토렌트를, 비트토렌트, 파일공유사이트, BitTorrent",False
+Orange-Book,오렌지북,N/A,False
+Soft-Map,소프트맵,N/A,False
+attachment,어태치먼트,"애착, 愛着, 스풀, 지지용, 이입, 철사, 축방향, 감작, 익공, 존중감과",False
+Apple-Script,애플스크립트,N/A,False
+bus-mouse,버스마우스,N/A,False
+flashpix,플래시픽스,N/A,False
+audiotex,오디오텍스,N/A,False
+laser-memory-card,레이저메모리카드,N/A,False
+Hypertext-Preprocessor,하이퍼텍스트-프리프로세서,N/A,False
+Mbone,엠본,"CoAP, OSI참조, IETF에서는, SIP는, B-ISDN, IPSec, WAE, 하나망, SRTP, OSPF",False
+holography-disc,홀로그래피디스크,N/A,False
+off-line-system,오프라인시스템,N/A,False
+white-page,화이트-페이지,N/A,False
+packet-writing,패킷라이팅,N/A,False
+Green-PC,그린피시,N/A,False
+cyber-park,사이버파크,N/A,False
+cyber-yugoslavia,사이버유고슬라비아,N/A,False
+magicgate,매직게이트,N/A,False
+cyber-diary,사이버-다이어리,N/A,False
+device-bay,디바이스-베이,N/A,False
+multiwindow,멀티윈도,"멀티윈도우, 화면분할, 윈도즈, 소프트키, 리눅스커널, 탐색기나, 터치패드도, SVG와, 2.6과, 터치위즈와",True
+microdrive,마이크로드라이브,"보조기억, 단자보다, SD메모리, 벤틸레이티드, 30G, USB메모리, 시디롬은, USB, CD-RW를, 타입-C",False
+stylus,스타일러스,"마우스나, 줄감개, 전자펜, 첨필, 패드와, 터치패드, 스타일러스, 스틱이나, 키보드나, 스타일러스나",True
+infonesia,인포네시아,N/A,False
+ActiveMovie,액티브무비,"PlayReady, libpng, OpenMP, Player는, Command-Line, Plug-ins, FireMonkey, IntelliCAD, CoreAVC, FastCGI",False
+useware,유즈웨어,N/A,False
+Stockdaily,스탁데일리,N/A,False
+altvore,알트보어,N/A,False
+Crusoe,크루소,"캐리비언, 조르바, 로버, 채만식과, 동물기, 올더스, 바킨, 선원, 알라트리스테, 일곱난쟁이",False
+netrepreneur,네트러프러너,N/A,False
+digital-memory-scope,디지털메모리스코프,N/A,False
+CD-V,시디브이,N/A,False
+WebPad,웹패드,N/A,False
+data-flow-computer,데이터플로컴퓨터,N/A,False
+Newton,뉴턴,"뉴턴, 뉴톤, 채핀, 듀런트, 뉴턴과, 헤이던, 뉴튼, 틸던, 서스킨드, 뉴턴도",True
+multizen,멀티즌,N/A,False
+Netscape-ONE,넷스케이프원,N/A,False
+Euronet,유로넷,"한솔PCS, 지급결제시스템, 바클리스의, 어바이어는, SWIFT는, 유럽집행위원회, 씨티은행의, 한국카카오, 유럽통화동맹, 지급결제",False
+Aquastar-System,아쿼스타시스템,N/A,False
+computocracy,컴퓨토크라시,N/A,False
+surround-video,서라운드-비디오,N/A,False
+Ananova,아나노바,"BBC방송, 인터넷판이, BBC뉴스, 인터넷판에서, 인터넷판은, 123rf, 보도했다., 영국일간지, 텔레그래프는, 데일리메일",False
+magnetic-bubble-device,자기버블소자,N/A,False
+local-area-network-analyzer,랜애널라이저,N/A,False
+NetBench,넷벤치,N/A,False
+mark-reader-printer,마크리더프린터,N/A,False
+database-machine,데이터베이스머신,N/A,False
+programmed-text,프로그램드텍스트,N/A,False
+ClariNet-News,클라리넷-뉴스,N/A,False
+ez-flyer,이지플라이어,N/A,False
+Lindose,린도즈,N/A,False
+Marisat-System,매리샛시스템,N/A,False

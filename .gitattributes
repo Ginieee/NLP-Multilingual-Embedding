@@ -1,0 +1,4 @@
+data/cc.en.300.bin filter=lfs diff=lfs merge=lfs -text
+data/cc.en.300.vec filter=lfs diff=lfs merge=lfs -text
+data/cc.ko.300.vec filter=lfs diff=lfs merge=lfs -text
+data/cc.ko.300.bin filter=lfs diff=lfs merge=lfs -text
